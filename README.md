@@ -149,7 +149,7 @@ Curiosity, consistency, and clarity guide most of what I build.
 If you’d like a more structured view of my background and projects:
 
 - **Resume:** [View PDF](https://drive.google.com/file/d/1D7sX9oETCp3dfPJFctS5qIXMe2xIL90l/view?usp=sharing)
-- **Portfolio:** [dibyoc-portfolio.vercel.app](https://dibyo.work)
+- **Portfolio:** [www.dibyo.work](https://dibyo.work)
 
 ---
 
